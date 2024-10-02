@@ -26,6 +26,6 @@ pipeline {
                 test -f build/index.html
                 '''
             }
-            
+        }           
     }
 }
